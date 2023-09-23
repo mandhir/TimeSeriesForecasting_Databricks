@@ -1,6 +1,6 @@
 # TimeSeriesForecasting_Databricks
 
-### Parts of this notebook have been obfuscated to protect privacy and security
+#### *Parts of this notebook have been obfuscated to protect privacy and security*
 
 ### Installation and Import Packages
 
